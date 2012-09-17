@@ -14,8 +14,6 @@ CACHE:
 
 
 
-# image files
-
 FALLBACK:
 
 NETWORK:
